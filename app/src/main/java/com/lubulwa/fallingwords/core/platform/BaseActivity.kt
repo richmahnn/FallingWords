@@ -1,4 +1,4 @@
-package com.lubulwa.fallingwords.core
+package com.lubulwa.fallingwords.core.platform
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
