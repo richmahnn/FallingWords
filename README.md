@@ -5,6 +5,7 @@
 <img src="/img/fallingwords.png" height="700" alt="Users list">
 </p
 
+<br/>
 ## How was the time distributed (concept, model layer, view(s), game mechanics)
 
 -> Concept design and dependencies 1:20 mins
