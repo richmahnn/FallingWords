@@ -4,4 +4,5 @@
     <string name="correct">Correct</string>
     <string name="correct_score_place_holder">Correct: %d / %d</string>
     <string name="wrong_score_place_holder">Failed: %d</string>
+    <string name="no_answer">No answer</string>
 </resources>

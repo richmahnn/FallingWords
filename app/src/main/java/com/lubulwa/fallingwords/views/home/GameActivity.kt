@@ -77,7 +77,7 @@ class GameActivity : BaseActivity(), GameContract.View, Animation.AnimationListe
     }
 
     override fun onAnimationEnd(p0: Animation?) {
-        Toast.makeText(this, "No answer", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, getString(R.string.no_answer), Toast.LENGTH_SHORT).show()
         gamePresenter.translationWrong()
         gamePresenter.nextTranslation()
     }

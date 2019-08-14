@@ -59,11 +59,11 @@ class GamePresenter @Inject constructor(private val context: Context, private va
     }
 
     override fun subscribe() {
-
+        // subscribe to rxjava observables
     }
 
     override fun unsubscribe() {
-
+        // unsubscribe to rxjava observables
     }
 
     override fun attach(view: GameContract.View) {
