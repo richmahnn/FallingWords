@@ -2,5 +2,6 @@
     <string name="app_name">FallingWords</string>
     <string name="wrong">Wrong</string>
     <string name="correct">Correct</string>
-    <string name="score_place_holder">High score: %d</string>
+    <string name="correct_score_place_holder">Correct: %d / %d</string>
+    <string name="wrong_score_place_holder">Failed: %d</string>
 </resources>

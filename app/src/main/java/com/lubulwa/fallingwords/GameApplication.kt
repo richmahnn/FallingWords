@@ -1,9 +1,9 @@
 package com.lubulwa.fallingwords
 
 import android.app.Application
-import com.lubulwa.fallingwords.core.di.ApplicationComponent
-import com.lubulwa.fallingwords.core.di.ApplicationModule
-import com.lubulwa.fallingwords.core.di.DaggerApplicationComponent
+import com.lubulwa.fallingwords.core.di.component.ApplicationComponent
+import com.lubulwa.fallingwords.core.di.component.DaggerApplicationComponent
+import com.lubulwa.fallingwords.core.di.module.ApplicationModule
 
 class GameApplication : Application() {
 

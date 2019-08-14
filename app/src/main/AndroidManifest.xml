@@ -10,7 +10,7 @@
             android:supportsRtl="true"
             android:name=".GameApplication"
             android:theme="@style/AppTheme">
-        <activity android:name=".views.GameActivity">
+        <activity android:name=".views.home.GameActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
